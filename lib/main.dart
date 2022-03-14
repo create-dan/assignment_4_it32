@@ -32,7 +32,7 @@ class ListViewBuilder extends StatelessWidget {
             return ListTile(
                 leading: Icon(Icons.list),
                 trailing: Text(
-                  "GFG",
+                  "GFG Omkar",
                   style: TextStyle(
                       color: Colors.pink,
                       fontSize: 15,
